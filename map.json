@@ -235,7 +235,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/bordeaux\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/montreal\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -271,7 +271,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/nantes\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -289,7 +289,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/rennes\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -307,7 +307,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/brest\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -325,7 +325,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/paris\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,7 +343,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/lille\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,7 +361,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/singapour\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,7 +379,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/lyon\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -397,7 +397,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/tz.zenika.com\/cities\/grenoble\/"
                 }],
          "type":"tilelayer",
          "visible":true,
