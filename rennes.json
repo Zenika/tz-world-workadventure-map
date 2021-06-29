@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/streamyard.com\/w86q2w8acu"
+                 "value":"https:\/\/streamyard.com\/rvrhc67rpa"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -83,7 +83,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/uHrROhqIUxQ?autoplay=1"
+                 "value":"https:\/\/www.youtube.com\/embed\/zkwug1n-ewQ?autoplay=1"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -107,12 +107,6 @@
          "id":10,
          "name":"Openfeedback",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/openfeedback.io\/r8cX0zyR47d1pOG2x8JO"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
