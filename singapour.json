@@ -66,6 +66,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-singapour"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -130,6 +135,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-singapour-backstage"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
