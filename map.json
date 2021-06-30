@@ -420,6 +420,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-coffee-java"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -438,6 +443,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-coffee-js"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -456,6 +466,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-coffee-docker"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -474,6 +489,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-coffee-kafka"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -492,6 +512,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-coffee-zenikanard"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -510,6 +535,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-coffee-trello"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,

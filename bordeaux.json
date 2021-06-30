@@ -66,6 +66,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-bordeaux"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -124,6 +129,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-bordeaux-backstage"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,

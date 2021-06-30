@@ -43,6 +43,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"znk-tz-world-2021-lyon"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"orga"
                 }],
          "type":"tilelayer",
          "visible":true,
