@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/cities\/montreal\/"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vT8dywLPg5e-3jGtZNkCqxUC9Mo6Wr8fh6wvemzNjjjMsnPQaQiEyVpP3_LTImp3BHHo16qYizvviMH\/pub?start=true&loop=true&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
