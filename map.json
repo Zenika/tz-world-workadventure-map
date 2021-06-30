@@ -33,12 +33,6 @@
          "id":39,
          "name":"to_singapour",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/zenika-tz\/tz-world-2021\/singapour"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
