@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vTxK5wzFrZ7SFgwnJ3bJoC_ZZP2GX2HkIfg4-cH_K9c7XqP_fVGSX7zhV7q50l7KV6gwE7oa2WJ-RJr\/pub?start=false&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
