@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vTxK5wzFrZ7SFgwnJ3bJoC_ZZP2GX2HkIfg4-cH_K9c7XqP_fVGSX7zhV7q50l7KV6gwE7oa2WJ-RJr\/embed?start=false&loop=false&delayms=3000"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQp9yJDnL5l98QD625oUejSMLwrblr3vJ4KFHXBorZaaUnxBB8oIWeJVdxOaX9s2BRHRXXs7Q1OJoly\/embed?start=false&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/cities\/brest\/"
+                 "value":"https:\/\/brest.zenika.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,7 +319,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/cities\/paris\/"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQdiYIuWjsVQUX5KpZk6yEvQBYHhC-zmGlJDGYTjXyxJKRkUuTVEHVReI7vJsxDAuUHUp9a8fiRiZIB\/embed?start=true&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -337,7 +337,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/cities\/lille\/"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQPJwF1QI_DL7DtKm9wcR4Bed6auXFl0yvI_DFuoKgTzpgxNFOdMfjTaZbep43V7zUQt5D9HJgUxHl2\/embed?start=true&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -383,7 +383,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/cities\/lyon\/"
+                 "value":"\"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vT0OBbiPSOaugPtrS5g3Q4pHPWxe32qR4yfAhZQfx9WA1DETg6-pgkDrLgpnHEOTnlhWm5LP020g6bg\/embed?start=true&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -401,7 +401,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/cities\/grenoble\/"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSZ-y1XsfhTN-Xz0jwXcw_xaxzBDhyck__P5o0pMpLw3B2omzTfHME9iQKEzTUBdL8fOO94WQnTu1wV\/embed?start=true&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
