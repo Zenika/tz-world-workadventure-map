@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/cities\/bordeaux\/"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQL9XF-IfH-5iI6nXG9xpc3H9bQ22X38lX95LofRmvrbGukZ-2TnEUcVx1THsi2Yw\/embed?start=true&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/brest.zenika.com\/"
+                 "value":"https:\/\/www.zenika.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -383,7 +383,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vT0OBbiPSOaugPtrS5g3Q4pHPWxe32qR4yfAhZQfx9WA1DETg6-pgkDrLgpnHEOTnlhWm5LP020g6bg\/embed?start=true&loop=false&delayms=3000"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vT0OBbiPSOaugPtrS5g3Q4pHPWxe32qR4yfAhZQfx9WA1DETg6-pgkDrLgpnHEOTnlhWm5LP020g6bg\/embed?start=true&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
