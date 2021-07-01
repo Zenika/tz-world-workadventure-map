@@ -265,7 +265,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tz.zenika.com\/cities\/nantes\/"
+                 "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSCVIZFb6U-enCxUct4HwIbEs_Vn26SfHjq2Dx-oRBP3PO_dHQrgl_raCCaxcBBcNYJEyZjP2TXl7AE\/embed?start=true&loop=false&delayms=3000"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.zenika.com\/"
+                 "value":"https:\/\/brest.zenika.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
